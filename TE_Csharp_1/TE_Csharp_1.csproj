@@ -5,7 +5,7 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>TE_Csharp_1.Bank</StartupObject>
+    <StartupObject>TE_Csharp_1.task18_1</StartupObject>
   </PropertyGroup>
 
 </Project>
